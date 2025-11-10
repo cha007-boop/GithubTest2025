@@ -7,3 +7,5 @@ Console.WriteLine("Hej med jer");
 Console.WriteLine("This should be added to Github");
 
 Console.WriteLine("Can you read this?");
+
+Console.WriteLine("This is the test branch");
